@@ -4,3 +4,5 @@ plugins:
 
 title: Richards Creek Alliance
 description: Richards Creek Alliance
+
+theme: jekyll-theme-cayman
